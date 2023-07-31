@@ -7,7 +7,7 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '菜饼的技术博客',
+  name: '花饼的技术博客',
   domain: 'szufrank.top',
   author: '菜饼同学',
 
