@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '花饼的技术博客',
-  domain: 'szufrank.top',
+  domain: 'awesome-nextjs-notion-blog-nine.vercel.app',
   author: '菜饼同学',
 
   // open graph metadata (optional)
