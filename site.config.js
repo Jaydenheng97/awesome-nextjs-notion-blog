@@ -19,6 +19,8 @@ module.exports = {
   // social usernames (optional)
   twitter: 'test',
   github: 'test',
+  facebook: 'jaydenheng',
+  whatsapp: 'dfa',
   wechatPublicName: null,
   wechatPublicURL: null,
   notionPublic: null,
@@ -70,7 +72,7 @@ module.exports = {
     '/post-list': '651765de6a0f4a729f9186f26381aef3',
     '/one-year-review': 'c6461186bea149eb9a83c0d7284f2921',
   },
-  showPageAsideSocials: false,
+  showPageAsideSocials: true,
   footCounterList: [
     '6a76fdd9ec6d4ae2855aa790d620eec4',
     '651765de-6a0f-4a72-9f91-86f26381aef3'
