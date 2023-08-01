@@ -17,13 +17,11 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'test',
-  github: 'test',
-  facebook: 'jaydenheng',
-  whatsapp: 'dfa',
-  wechatPublicName: null,
-  wechatPublicURL: null,
-  notionPublic: null,
+  twitter: null,
+  github: 'frankcbliu',
+  wechatPublicName: '菜饼不菜',
+  wechatPublicURL: 'https://mp.weixin.qq.com/s?__biz=MzkxMzIyOTI1Mg==&mid=2247486027&idx=1&sn=2840f0b8cfdc982b9095dd18ec9892e5',
+  notionPublic: 'https://frankcbliu.notion.site/6a76fdd9ec6d4ae2855aa790d620eec4',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
